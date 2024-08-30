@@ -11,3 +11,7 @@ sb:
     b: "200 from git"
     c: "300 from git"
     d: yellow,pink,red,dev
+
+excl:
+ x: 12
+ y: 14
